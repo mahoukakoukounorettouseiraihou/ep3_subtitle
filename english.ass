@@ -1,0 +1,230 @@
+﻿[Script Info]
+Title: Erai-raws
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,25,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:20.66,0:00:24.09,Default,,0,0,0,,{\fs41\fad(0,500)\clip(150,44,172,130)\bord0.4\fnOpen Sans Semibold\b0\3c&H000000&\u1\pos(295,90)\t(0,42,\clip(150,44,442,126))}JANUARY 17, 2096
+Dialogue: 0,0:00:43.20,0:00:45.20,Default,,0,0,0,,Is he to the right?
+Dialogue: 0,0:00:45.20,0:00:46.62,Default,,0,0,0,,Or the left?
+Dialogue: 0,0:02:25.08,0:02:26.83,Default,,0,0,0,,{\fad(300,0)\an3}"KYUCHOJI TEMPLE"
+Dialogue: 0,0:02:26.95,0:02:30.87,Default,,0,0,0,,Boy, you had me on the ropes.
+Dialogue: 0,0:02:30.87,0:02:33.66,Default,,0,0,0,,Master, what was that just now?
+Dialogue: 0,0:02:33.66,0:02:38.87,Default,,0,0,0,,I didn't think you would break\Nmy Cocoon Water Mirage.
+Dialogue: 0,0:02:38.87,0:02:43.16,Default,,0,0,0,,That wasn't one of your\Nusual illusion arts, was it?
+Dialogue: 0,0:02:43.16,0:02:45.49,Default,,0,0,0,,You realized that?
+Dialogue: 0,0:02:45.49,0:02:52.70,Default,,0,0,0,,That odd ability of yours to read a spell\Nat a glance is a true threat to your opponent.
+Dialogue: 0,0:02:52.70,0:02:57.12,Default,,0,0,0,,But there's a way to use it against you.
+Dialogue: 0,0:02:57.12,0:03:00.12,Default,,0,0,0,,Was it the illusion you just used?
+Dialogue: 0,0:03:00.12,0:03:06.95,Default,,0,0,0,,Cocoon Water Mirage is a spell designed\Nto deceive the eyes of things not of this world.
+Dialogue: 0,0:03:06.95,0:03:12.29,Default,,0,0,0,,Master, you just said...\N"the eyes of things not of this world"?
+Dialogue: 0,0:03:13.49,0:03:17.66,Default,,0,0,0,,It's not only humans we're up against.
+Dialogue: 0,0:03:17.66,0:03:22.87,Default,,0,0,0,,In fact, it's not rare\Nto fight supernatural things.
+Dialogue: 0,0:03:22.87,0:03:26.41,Default,,0,0,0,,But my friend, an Ancient Magic user,
+Dialogue: 0,0:03:26.41,0:03:31.45,Default,,0,0,0,,said that encountering actual demons\Nwas an extremely rare thing.
+Dialogue: 0,0:03:31.45,0:03:36.99,Default,,0,0,0,,You've already had\None or two experiences yourself.
+Dialogue: 0,0:03:36.99,0:03:41.33,Default,,0,0,0,,The magic you modern\Nmagicians call "SB Magic"...
+Dialogue: 0,0:03:41.33,0:03:45.70,Default,,0,0,0,,What does it use as a medium?
+Dialogue: 0,0:03:45.70,0:03:48.20,Default,,0,0,0,,I think you understand.
+Dialogue: 0,0:03:48.20,0:03:52.04,Default,,0,0,0,,What you modern magicians\Ncall "spiritual beings"
+Dialogue: 0,0:03:52.04,0:03:57.24,Default,,0,0,0,,or "spirits" are not of this world.
+Dialogue: 0,0:03:57.24,0:04:01.74,Default,,0,0,0,,So, these spirits that are nothing more\Nthan independent information bodies
+Dialogue: 0,0:04:01.74,0:04:05.54,Default,,0,0,0,,cut off from phenomena\Nare not of this world?
+Dialogue: 0,0:04:07.41,0:04:14.87,Default,,0,0,0,,To be precise, they might be better called\N"things without life or flesh."
+Dialogue: 0,0:04:14.87,0:04:18.91,Default,,0,0,0,,Master, can I ask you one more question?
+Dialogue: 0,0:04:18.91,0:04:20.49,Default,,0,0,0,,Go ahead.
+Dialogue: 0,0:04:20.49,0:04:22.49,Default,,0,0,0,,According to Modern Magic,
+Dialogue: 0,0:04:22.49,0:04:27.66,Default,,0,0,0,,spirits are independent information bodies\Nderived from natural phenomena.
+Dialogue: 0,0:04:28.83,0:04:31.62,Default,,0,0,0,,Then, if parasites can feed off\Na person's ethereal body
+Dialogue: 0,0:04:31.62,0:04:34.20,Default,,0,0,0,,and change the person's properties,
+Dialogue: 0,0:04:34.20,0:04:37.29,Default,,0,0,0,,what information bodies\Nwould they be based on?
+Dialogue: 0,0:04:37.29,0:04:44.08,Default,,0,0,0,,I don't know the origin of these\Nwraiths or what you call "parasites."
+Dialogue: 0,0:04:44.08,0:04:46.83,Default,,0,0,0,,They interfere with people's minds,
+Dialogue: 0,0:04:46.83,0:04:51.58,Default,,0,0,0,,so I'd think they're based\Nin spirit phenomena.
+Dialogue: 0,0:04:51.58,0:04:55.79,Default,,0,0,0,,Information organisms\Noriginating in the mind?
+Dialogue: 0,0:04:55.79,0:04:58.62,Default,,0,0,0,,Just as spirits originating\Nin physical phenomena
+Dialogue: 0,0:04:58.62,0:05:03.54,Default,,0,0,0,,drift through a shadow world\Nback-to-back with this one,
+Dialogue: 0,0:05:03.54,0:05:06.12,Default,,0,0,0,,the wraiths originating\Nin mental phenomena
+Dialogue: 0,0:05:06.12,0:05:12.66,Default,,0,0,0,,might come from the shadow world\Nback-to-back with our mental world.
+Dialogue: 0,0:05:12.66,0:05:16.45,Default,,0,0,0,,That's my own unadulterated theory.
+Dialogue: 0,0:05:24.87,0:05:27.49,Default,,0,0,0,,Sorry to call out of the blue, Shizuku.
+Dialogue: 0,0:05:27.49,0:05:29.66,Default,,0,0,0,,That's okay. What's up?
+Dialogue: 0,0:05:29.66,0:05:36.33,Default,,0,0,0,,Um, Tatsuya wants to ask you something.\NI'll let you talk to him.
+Dialogue: 0,0:05:37.08,0:05:39.54,Default,,0,0,0,,Sorry to call you so late.
+Dialogue: 0,0:05:39.54,0:05:41.87,Default,,0,0,0,,I was going to send you an email at first,
+Dialogue: 0,0:05:41.87,0:05:45.49,Default,,0,0,0,,but it's easier to make myself\Nclear talking face-to-face.
+Dialogue: 0,0:05:45.49,0:05:48.37,Default,,0,0,0,,No problem. It's only 8 PM here.
+Dialogue: 0,0:05:48.37,0:05:50.62,Default,,0,0,0,,So, what is it?
+Dialogue: 0,0:05:50.62,0:05:56.83,Default,,0,0,0,,Honoka mentioned that a vampire is\Nmaking a mess of things over there, too.
+Dialogue: 0,0:05:56.83,0:06:00.62,Default,,0,0,0,,I'd like you to fill me in\Non any details you have.
+Dialogue: 0,0:06:00.62,0:06:04.66,Default,,0,0,0,,It's still just treated\Nas an urban legend in America.
+Dialogue: 0,0:06:04.66,0:06:07.83,Default,,0,0,0,,Or at least, the media doesn't cover it.
+Dialogue: 0,0:06:07.83,0:06:09.49,Default,,0,0,0,,Has something happened there?
+Dialogue: 0,0:06:09.49,0:06:13.29,Default,,0,0,0,,Something like a vampire attacked Leo.
+Dialogue: 0,0:06:13.29,0:06:15.16,Default,,0,0,0,,What?
+Dialogue: 0,0:06:15.16,0:06:22.62,Default,,0,0,0,,Don't worry. He'll be okay.\NLeo drove off the vampire personally.
+Dialogue: 0,0:06:22.62,0:06:26.16,Default,,0,0,0,,But he happened to take damage\Nfrom their strange ability,
+Dialogue: 0,0:06:26.16,0:06:29.16,Default,,0,0,0,,and he's recuperating in the hospital.
+Dialogue: 0,0:06:29.16,0:06:31.16,Default,,0,0,0,,Thank goodness.
+Dialogue: 0,0:06:31.16,0:06:37.04,Default,,0,0,0,,I see. That's why you want to know\Nwhat's happening here.
+Dialogue: 0,0:06:37.04,0:06:38.12,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:06:38.12,0:06:40.37,Default,,0,0,0,,But you don't have to investigate.
+Dialogue: 0,0:06:40.37,0:06:42.33,Default,,0,0,0,,Whatever you can find\Nfrom asking around is fine.
+Dialogue: 0,0:06:42.33,0:06:46.66,Default,,0,0,0,,But you think America has some clues, right?
+Dialogue: 0,0:06:46.66,0:06:48.54,Default,,0,0,0,,Sort of, but to be honest...
+Dialogue: 0,0:06:48.54,0:06:54.54,Default,,0,0,0,,I believe the criminal behind the\Nvampire incident came here from America.
+Dialogue: 0,0:06:55.95,0:06:59.45,Default,,0,0,0,,So, I really want you to stay away\Nfrom anything dangerous.
+Dialogue: 0,0:06:59.45,0:07:04.24,Default,,0,0,0,,Don't take any chances, Shizuku.
+Dialogue: 0,0:07:04.24,0:07:06.79,Default,,0,0,0,,Okay. I'll play it safe.
+Dialogue: 0,0:07:06.79,0:07:10.16,Default,,0,0,0,,So, be patient and don't expect much.
+Dialogue: 0,0:07:10.74,0:07:14.16,Default,,0,0,0,,{\fs35\fad(0,500)\bord0.4\fnOpen Sans Semibold\b0\3c&H000000&\u1\pos(486,90)\clip(154,44,180,122)\t(0,125,\clip(154,44,818,110))}JANUARY 20, 2096 / UDAGAWACHO, SHIBUYA WARD
+Dialogue: 0,0:07:29.66,0:07:31.62,Default,,0,0,0,,Miki, which way?
+Dialogue: 0,0:07:42.91,0:07:44.62,Default,,0,0,0,,This way, huh?
+Dialogue: 0,0:07:49.20,0:07:53.70,Default,,0,0,0,,I really think it'd be better\Nto team up with Jumonji and Saegusa.
+Dialogue: 0,0:07:57.20,0:07:59.20,Default,,0,0,0,,Miki!
+Dialogue: 0,0:07:59.20,0:08:00.54,Default,,0,0,0,,Let's go!
+Dialogue: 0,0:08:00.54,0:08:02.41,Default,,0,0,0,,Coming!
+Dialogue: 0,0:08:13.20,0:08:15.04,Default,,0,0,0,,Which way, Silvie?
+Dialogue: 0,0:08:16.95,0:08:19.87,Default,,0,0,0,,Right at the next corner, Commander!
+Dialogue: 0,0:08:19.87,0:08:21.12,Default,,0,0,0,,Roger that!
+Dialogue: 0,0:08:21.12,0:08:24.08,Default,,0,0,0,,Claire, Rachel, head Sullivan off!
+Dialogue: 0,0:08:24.08,0:08:25.87,Default,,0,0,0,,Yes, ma'am!
+Dialogue: 0,0:08:53.79,0:08:58.54,Default,,0,0,0,,I can't stop this dagger\Nthat's been activated with a movement spell!
+Dialogue: 0,0:08:58.54,0:09:01.20,Default,,0,0,0,,She's out of my league--
+Dialogue: 0,0:09:50.95,0:09:54.58,Default,,0,0,0,,Miki, you take the one in the coat!\NI'll bring down the masked one!
+Dialogue: 0,0:10:00.87,0:10:03.58,Default,,0,0,0,,I'm your opponent.
+Dialogue: 0,0:10:03.58,0:10:05.62,Default,,0,0,0,,How fast is she?
+Dialogue: 0,0:10:08.99,0:10:10.29,Default,,0,0,0,,Here I come!
+Dialogue: 0,0:10:28.24,0:10:31.16,Default,,0,0,0,,Her swordsmanship is first-rate.
+Dialogue: 0,0:10:31.87,0:10:36.08,Default,,0,0,0,,Her magic abilities are top-notch.
+Dialogue: 0,0:10:41.70,0:10:45.62,Default,,0,0,0,,Other than bruises,\NLeo didn't have any physical wounds.
+Dialogue: 0,0:10:45.62,0:10:47.12,Default,,0,0,0,,Then...
+Dialogue: 0,0:10:47.12,0:10:51.12,Default,,0,0,0,,this creep either used\Na blunt weapon or bare hands.
+Dialogue: 0,0:10:51.12,0:10:53.20,Default,,0,0,0,,In that case...
+Dialogue: 0,0:10:53.20,0:10:54.95,Default,,0,0,0,,Bridal Veil!
+Dialogue: 0,0:11:03.20,0:11:06.16,Default,,0,0,0,,A barrier? Or weakening?
+Dialogue: 0,0:11:10.12,0:11:14.04,Default,,0,0,0,,A barrier! Then, Thunder Child!
+Dialogue: 0,0:11:34.83,0:11:36.83,Default,,0,0,0,,You're mine!
+Dialogue: 0,0:11:43.70,0:11:47.95,Default,,0,0,0,,Strange. The flash should only be\Nfor a second, but it's still there.
+Dialogue: 0,0:11:47.95,0:11:49.58,Default,,0,0,0,,Don't tell me...
+Dialogue: 0,0:11:50.74,0:11:53.04,Default,,0,0,0,,Emission-Type Magic?
+Dialogue: 0,0:11:59.87,0:12:01.70,Default,,0,0,0,,I won't make it!
+Dialogue: 0,0:12:19.91,0:12:21.66,Default,,0,0,0,,Tatsuya?
+Dialogue: 0,0:12:47.08,0:12:50.08,Default,,0,0,0,,I have the data\Nof the colors and contours,
+Dialogue: 0,0:12:50.08,0:12:52.37,Default,,0,0,0,,but all other information is missing.
+Dialogue: 0,0:12:53.62,0:12:55.62,Default,,0,0,0,,What is this?
+Dialogue: 0,0:13:01.83,0:13:04.49,Default,,0,0,0,,She escaped.
+Dialogue: 0,0:13:06.52,0:13:08.02,Default,,0,0,0,,{\bord3\fnOpen Sans Extrabold\b0\c&HFFFEFC&\3c&H1163FA&\pos(702,68)}VISITOR ARC III
+Dialogue: 0,0:13:21.91,0:13:25.12,Default,,0,0,0,,Did you retrieve Sergeant Sullivan's body?
+Dialogue: 0,0:13:25.12,0:13:27.58,Default,,0,0,0,,Yes, we have it.
+Dialogue: 0,0:13:27.58,0:13:31.91,Default,,0,0,0,,And have you determined the identity\Nof the other one I was pursuing?
+Dialogue: 0,0:13:31.91,0:13:33.79,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:13:33.79,0:13:36.58,Default,,0,0,0,,We successfully extracted\Nthe Psi-wave pattern,
+Dialogue: 0,0:13:36.58,0:13:39.33,Default,,0,0,0,,but it didn't match any of the data.
+Dialogue: 0,0:13:39.33,0:13:41.83,Default,,0,0,0,,Not a fugitive, then?
+Dialogue: 0,0:13:41.83,0:13:45.99,Default,,0,0,0,,Or the Psi-wave patterns\Nhave been altered.
+Dialogue: 0,0:13:45.99,0:13:48.83,Default,,0,0,0,,My guess is the latter.
+Dialogue: 0,0:13:48.83,0:13:50.37,Default,,0,0,0,,Understood.
+Dialogue: 0,0:13:50.37,0:13:53.49,Default,,0,0,0,,Trace the pattern we picked up.
+Dialogue: 0,0:13:53.49,0:13:55.08,Default,,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:13:58.95,0:14:02.95,Default,,0,0,0,,Nobody told me Erika was that strong!
+Dialogue: 0,0:14:02.95,0:14:08.74,Default,,0,0,0,,And Tatsuya used some crazy skill\Nor magic to disable my spells!
+Dialogue: 0,0:14:08.74,0:14:11.95,Default,,0,0,0,,Are all high schoolers in Japan like that?
+Dialogue: 0,0:14:16.24,0:14:17.58,Default,,0,0,0,,Aunt...
+Dialogue: 0,0:14:17.58,0:14:21.12,Default,,0,0,0,,I apologize for calling so late.
+Dialogue: 0,0:14:21.12,0:14:27.91,Default,,0,0,0,,It's fine. But unusual\Nfor you to call me, Tatsuya.
+Dialogue: 0,0:14:27.91,0:14:35.41,Default,,0,0,0,,Actually, there's one thing I'd like\Nto ask you and one request I wish to make.
+Dialogue: 0,0:14:35.41,0:14:38.33,Default,,0,0,0,,Ask away.
+Dialogue: 0,0:14:38.33,0:14:42.79,Default,,0,0,0,,Then, if I may...
+Dialogue: 0,0:14:42.79,0:14:50.16,Default,,0,0,0,,Aunt Maya, would you please tell me\Nhow the Kudou Family's Parade spell works?
+Dialogue: 0,0:14:53.12,0:14:56.16,Default,,0,0,0,,Oh my, Tatsuya...
+Dialogue: 0,0:14:56.16,0:14:59.74,Default,,0,0,0,,Parade is the Kudou Family's secret technique.
+Dialogue: 0,0:14:59.74,0:15:04.12,Default,,0,0,0,,Why would you think\NI'd know its mysteries?
+Dialogue: 0,0:15:04.12,0:15:09.29,Default,,0,0,0,,You studied under\NGeneral Kudou for a time, Aunt.
+Dialogue: 0,0:15:09.29,0:15:14.33,Default,,0,0,0,,Even if you don't know the magic sequence,\Nmaybe you know the gist.
+Dialogue: 0,0:15:16.87,0:15:21.87,Default,,0,0,0,,Is the anti-magic spell Parade\Nfor duplicating and processing parts
+Dialogue: 0,0:15:21.87,0:15:25.79,Default,,0,0,0,,related to your own Eidos'\Noutward appearance...
+Dialogue: 0,0:15:25.79,0:15:30.20,Default,,0,0,0,,then projecting it onto yourself to\Ntemporarily alter your physical appearance
+Dialogue: 0,0:15:30.20,0:15:35.74,Default,,0,0,0,,while also substituting any magical\Ninterference aims with their own disguised Eidos
+Dialogue: 0,0:15:35.74,0:15:39.87,Default,,0,0,0,,to block the usage of magic\Non your real body?
+Dialogue: 0,0:15:39.87,0:15:47.91,Default,,0,0,0,,I had thought you, of all people, would know\Nthat transformation magic is impossible.
+Dialogue: 0,0:15:47.91,0:15:49.87,Default,,0,0,0,,If all you want to do\Nis alter your appearance,
+Dialogue: 0,0:15:49.87,0:15:54.16,Default,,0,0,0,,you can do it by using Light Interference-Type\NMagic, though it's not true transformation.
+Dialogue: 0,0:15:54.16,0:16:01.54,Default,,0,0,0,,The issue lies in that Light Interference-Type\NMagic can't fool my eyes.
+Dialogue: 0,0:16:01.54,0:16:04.62,Default,,0,0,0,,Brother, you don't mean that there was someone
+Dialogue: 0,0:16:04.62,0:16:06.29,Default,,0,0,0,,who could keep their\Nidentity secret from you, right?
+Dialogue: 0,0:16:06.29,0:16:08.29,Default,,0,0,0,,That's not all.
+Dialogue: 0,0:16:08.29,0:16:11.66,Default,,0,0,0,,It caused my Mist Dispersion to miss.
+Dialogue: 0,0:16:11.66,0:16:13.45,Default,,0,0,0,,How?
+Dialogue: 0,0:16:15.29,0:16:18.66,Default,,0,0,0,,Even if Mist Dispersion didn't work,
+Dialogue: 0,0:16:18.66,0:16:21.66,Default,,0,0,0,,Trident should've been no problem.
+Dialogue: 0,0:16:21.66,0:16:27.08,Default,,0,0,0,,Aunt, it seems that this case\Nis more than we can handle.
+Dialogue: 0,0:16:27.08,0:16:31.08,Default,,0,0,0,,So, I would like to request reinforcements.
+Dialogue: 0,0:16:32.70,0:16:39.33,Default,,0,0,0,,Very well. Things seem to be shifting\Npast the scope of our expectations.
+Dialogue: 0,0:16:39.33,0:16:42.87,Default,,0,0,0,,I give you permission\Nto contact Major Kazama.
+Dialogue: 0,0:16:42.87,0:16:44.79,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:16:45.74,0:16:48.04,Default,,0,0,0,,Oh, that's right, Tatsuya...
+Dialogue: 0,0:16:48.04,0:16:51.79,Default,,0,0,0,,I do recall hearing\Nthat the Old Master's younger brother...
+Dialogue: 0,0:16:51.79,0:16:56.91,Default,,0,0,0,,was more skilled at using\NParade than he was.
+Dialogue: 0,0:16:58.04,0:17:01.67,Default,,0,0,0,,{\fs40\fad(0,500)\shad1.2\clip(150,44,172,130)\bord0\fnOpen Sans Semibold\b0\3c&H000000&\u1\pos(295,90)\t(0,42,\clip(150,44,442,126))}JANUARY 21, 2096
+Dialogue: 0,0:17:01.91,0:17:04.91,Default,,0,0,0,,{\bord0\c&H152331&\pos(414,288)\frz8.877\clip(m 466 276 l 466 276 466 276 466 276 387 243 496 228 512 265)}CROSSFIELD
+Dialogue: 0,0:17:01.91,0:17:04.91,Default,,0,0,0,,{\bord0\c&H4F7DA0&\pos(414,288)\frz8.877\clip(m 466 276 l 466 276 466 276 466 276 387 243 290 265 320 307)}CROSSFIELD
+Dialogue: 0,0:17:01.91,0:17:04.91,Default,,0,0,0,,{\bord0\c&H0F1B27&\pos(630,266)}CLUB
+Dialogue: 0,0:17:01.91,0:17:04.91,Default,,0,0,0,,{\bord0\c&H0F1B27&\frz354.1\pos(796,274)}ROOM 2
+Dialogue: 0,0:17:05.87,0:17:10.08,Default,,0,0,0,,I apologize for asking you here.\NI know you're busy.
+Dialogue: 0,0:17:10.08,0:17:14.29,Default,,0,0,0,,Not at all. But what can I do for you?
+Dialogue: 0,0:17:14.29,0:17:16.99,Default,,0,0,0,,Do you know that based\Nupon the Ten Master Clans' decision,
+Dialogue: 0,0:17:16.99,0:17:23.49,Default,,0,0,0,,the Saegusa Family and Jumonji Family are\Ncooperating to investigate the vampire murders?
+Dialogue: 0,0:17:23.49,0:17:26.87,Default,,0,0,0,,I've heard something to the effect.
+Dialogue: 0,0:17:26.87,0:17:29.16,Default,,0,0,0,,I'll get right to the point.
+Dialogue: 0,0:17:29.16,0:17:33.16,Default,,0,0,0,,Tatsuya, will you help us?
+Dialogue: 0,0:17:33.16,0:17:38.33,Default,,0,0,0,,You two are aware that Saijo\Nfrom Class 1-E was attacked, right?
+Dialogue: 0,0:17:40.49,0:17:46.33,Default,,0,0,0,,I'm not the only one who wants\Nto know what in the world is going on.
+Dialogue: 0,0:17:46.33,0:17:49.08,Default,,0,0,0,,Even if we find the criminal\Nand hand them over,
+Dialogue: 0,0:17:49.08,0:17:52.16,Default,,0,0,0,,this ordeal isn't over,\Nand we won't feel safe.
+Dialogue: 0,0:17:52.16,0:17:55.58,Default,,0,0,0,,Do we have just one\Nperpetrator or is it a group?
+Dialogue: 0,0:17:55.58,0:17:59.66,Default,,0,0,0,,Is this a personally motivated crime\Nor something infectious?
+Dialogue: 0,0:17:59.66,0:18:05.41,Default,,0,0,0,,Until we have these answers,\Nwe can't write it off as "case closed."
+Dialogue: 0,0:18:05.41,0:18:12.16,Default,,0,0,0,,How much do you know about the situation?\NHow do you plan on solving it?
+Dialogue: 0,0:18:12.16,0:18:18.16,Default,,0,0,0,,Unless you tell me that, I can't help you.
+Dialogue: 0,0:18:18.16,0:18:24.49,Default,,0,0,0,,If you promise to help us,\NI'll tell you what we know.
+Dialogue: 0,0:18:24.49,0:18:26.12,Default,,0,0,0,,Understood.
+Dialogue: 0,0:18:26.12,0:18:28.24,Default,,0,0,0,,I'll help you.
+Dialogue: 0,0:18:28.24,0:18:33.41,Default,,0,0,0,,Does that mean\Nyou'll join our search team?
+Dialogue: 0,0:18:33.41,0:18:37.37,Default,,0,0,0,,You may take it as such if you wish.
+Dialogue: 0,0:18:37.37,0:18:39.20,Default,,0,0,0,,Roger.
+Dialogue: 0,0:18:39.20,0:18:44.20,Default,,0,0,0,,Then, I'll tell you\Neverything we know at this point.
+Dialogue: 0,0:18:49.45,0:18:50.87,Default,,0,0,0,,I see.
+Dialogue: 0,0:18:50.87,0:18:54.62,Default,,0,0,0,,Then, there are more\Nvampire victims than we thought.
+Dialogue: 0,0:18:54.62,0:18:59.83,Default,,0,0,0,,Yes. We believe we're dealing\Nwith multiple vampires.
+Dialogue: 0,0:18:59.83,0:19:02.24,Default,,0,0,0,,Multiple?
+Dialogue: 0,0:19:02.24,0:19:04.08,Default,,0,0,0,,That's bad news.
+Dialogue: 0,0:19:04.08,0:19:07.99,Default,,0,0,0,,The expanded range special\Ninvestigation team from the police
+Dialogue: 0,0:19:07.99,0:19:12.20,Default,,0,0,0,,is also helping us\Ntrack down the vampires,
+Dialogue: 0,0:19:12.20,0:19:16.70,Default,,0,0,0,,but there's a third faction\Ninterfering with our efforts.
+Dialogue: 0,0:19:16.70,0:19:18.95,Default,,0,0,0,,Be careful of them, too.
+Dialogue: 0,0:19:18.95,0:19:20.37,Default,,0,0,0,,Roger that.
+Dialogue: 0,0:19:20.37,0:19:22.95,Default,,0,0,0,,So, what do you want me to do?
+Dialogue: 0,0:19:22.95,0:19:27.45,Default,,0,0,0,,Would you accompany us?\NIf possible, from tonight--
+Dialogue: 0,0:19:27.45,0:19:28.66,Default,,0,0,0,,No.
+Dialogue: 0,0:19:28.66,0:19:30.95,Default,,0,0,0,,Shiba should work on his own.
+Dialogue: 0,0:19:30.95,0:19:34.91,Default,,0,0,0,,If you find any clues, report them to us.
+Dialogue: 0,0:19:34.91,0:19:36.29,Default,,0,0,0,,Understood.
+Dialogue: 0,0:19:45.58,0:19:52.33,Default,,0,0,0,,It's so helpful that Major Kazama let us\Nuse the stratospheric security camera.
+Dialogue: 0,0:20:01.12,0:20:03.83,Default,,0,0,0,,Brother, are you going?
+Dialogue: 0,0:20:09.41,0:20:12.95,Default,,0,0,0,,Be good and wait here for me.
+Dialogue: 0,0:20:16.45,0:20:20.91,Default,,0,0,0,,I will await your return tonight.
+Dialogue: 0,0:20:20.91,0:20:26.24,Default,,0,0,0,,I'll definitely need your help soon.
+Dialogue: 0,0:20:26.24,0:20:28.20,Default,,0,0,0,,And when I do...
+Dialogue: 0,0:20:29.20,0:20:33.16,Default,,0,0,0,,Yes. Then, we'll be together.
+Dialogue: 0,0:20:33.16,0:20:36.70,Default,,0,0,0,,That's a promise, Brother.
+Dialogue: 0,0:20:54.54,0:20:57.99,Default,,0,0,0,,Who could it be at this hour?
+Dialogue: 0,0:21:04.12,0:21:09.16,Default,,0,0,0,,{\fs41\fad(0,500)\clip(150,44,172,130)\bord0.4\fnOpen Sans Light\b0\3c&H000000&\u1\t(0,42,\clip(150,44,442,126))\pos(252,90)}UENO PARK
+Dialogue: 0,0:23:48.54,0:23:52.04,Default,,0,0,0,,{\bord3\fnOpen Sans Extrabold\b0\c&HFFFEFC&\3c&H1163FA&\pos(702,68)}VISITOR ARC IV
